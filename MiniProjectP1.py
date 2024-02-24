@@ -1,5 +1,5 @@
 # Achmad Rizqy Pranata - 2209116086
-# Program Pembelian Game Digital (Steam)
+# Program CRUD Pembelian Game Digital (Steam) menggunakan Struktur Data Dictionary dalam bentuk Object-oriented Programming (OOP)
 
 class GameSteam:
     def __init__(self):
